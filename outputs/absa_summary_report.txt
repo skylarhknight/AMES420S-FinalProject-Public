@@ -1,0 +1,135 @@
+==========================================================================================
+SURVEILLANCE MEDIA ANALYSIS REPORT (ABSA)
+Generated: 2025-04-28 22:48:11
+==========================================================================================
+Total Articles: 32
+  - Western Sources: 20
+  - Chinese Sources: 11
+
+Total Words Analyzed: 60,537
+  - Western Words: 38,808
+  - Chinese Words: 21,725
+
+Sentiment Scores:
+count    32.0000
+mean      5.9504
+std      10.9637
+min     -10.1231
+25%      -1.0156
+50%       3.7051
+75%       9.4789
+max      49.1383
+
+Sentiment by Source:
+Western Media:
+count    20.0000
+mean      2.9534
+std       7.1922
+min     -10.1231
+25%      -1.3997
+50%       1.9024
+75%       7.4265
+max      18.8205
+Chinese Media:
+count    11.0000
+mean     12.2949
+std      14.2267
+min      -2.2637
+25%       4.6452
+50%       7.2858
+75%      14.4751
+max      49.1383
+
+Top 10 Keywords Across All Articles:
+  - surveillance: 562
+  - security: 313
+  - privacy: 120
+  - control: 82
+  - monitoring: 46
+  - stability: 43
+  - cybersecurity: 38
+  - governance: 29
+  - threat: 24
+  - safety: 23
+
+Top 10 Keywords (Western Sources):
+  - surveillance: 363
+  - security: 137
+  - privacy: 64
+  - control: 52
+  - cybersecurity: 33
+  - governance: 21
+  - stability: 21
+  - monitoring: 19
+  - repression: 16
+  - freedom: 14
+
+Top 10 Keywords (Chinese Sources):
+  - surveillance: 199
+  - security: 176
+  - privacy: 56
+  - control: 30
+  - monitoring: 27
+  - stability: 22
+  - enforcement: 15
+  - safety: 13
+  - threat: 12
+  - governance: 8
+
+Average Mentions of Each Keyword per Article (Western, Chinese, Overall):
+  - Surveillance: Western Avg=18.150, Chinese Avg=18.091, Overall Avg=17.562
+  - Monitoring: Western Avg=0.950, Chinese Avg=2.455, Overall Avg=1.438
+  - Privacy: Western Avg=3.200, Chinese Avg=5.091, Overall Avg=3.750
+  - Security: Western Avg=6.850, Chinese Avg=16.000, Overall Avg=9.781
+  - Freedom: Western Avg=0.700, Chinese Avg=0.091, Overall Avg=0.469
+  - Control: Western Avg=2.600, Chinese Avg=2.727, Overall Avg=2.562
+  - Oversight: Western Avg=0.000, Chinese Avg=0.091, Overall Avg=0.031
+  - Censorship: Western Avg=0.700, Chinese Avg=0.000, Overall Avg=0.438
+  - Safety: Western Avg=0.500, Chinese Avg=1.182, Overall Avg=0.719
+  - Regulation: Western Avg=0.200, Chinese Avg=0.455, Overall Avg=0.281
+  - Governance: Western Avg=1.050, Chinese Avg=0.727, Overall Avg=0.906
+  - Threat: Western Avg=0.600, Chinese Avg=1.091, Overall Avg=0.750
+  - Authoritarian: Western Avg=0.500, Chinese Avg=0.636, Overall Avg=0.531
+  - Intrusive: Western Avg=0.500, Chinese Avg=0.000, Overall Avg=0.312
+  - Transparency: Western Avg=0.050, Chinese Avg=0.000, Overall Avg=0.031
+  - Repression: Western Avg=0.800, Chinese Avg=0.091, Overall Avg=0.531
+  - Human Rights: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Stability: Western Avg=1.050, Chinese Avg=2.000, Overall Avg=1.344
+  - Efficiency: Western Avg=0.100, Chinese Avg=0.182, Overall Avg=0.125
+  - Ai: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Facial Recognition: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Big Data: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Social Credit: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Cybersecurity: Western Avg=1.650, Chinese Avg=0.455, Overall Avg=1.188
+  - Biometrics: Western Avg=0.600, Chinese Avg=0.000, Overall Avg=0.375
+  - Enforcement: Western Avg=0.300, Chinese Avg=1.364, Overall Avg=0.656
+  - Dissent: Western Avg=0.100, Chinese Avg=0.000, Overall Avg=0.062
+  - Propaganda: Western Avg=0.150, Chinese Avg=0.000, Overall Avg=0.094
+  - Public Safety: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - National Security: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Digital Rights: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Internet Freedom: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Online Tracking: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Mass Surveillance: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Civil Liberties: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Tyranny: Western Avg=0.050, Chinese Avg=0.000, Overall Avg=0.031
+  - Data Privacy: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Geolocation: Western Avg=0.250, Chinese Avg=0.000, Overall Avg=0.156
+  - Biometric Data: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Data Collection: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - State Control: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Social Stability: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+  - Digital Authoritarianism: Western Avg=0.000, Chinese Avg=0.000, Overall Avg=0.000
+
+Top 10 Keywords by Difference (Chinese vs. Western):
+  - security: 9.150 (Chinese-leaning)
+  - privacy: 1.891 (Chinese-leaning)
+  - monitoring: 1.505 (Chinese-leaning)
+  - cybersecurity: -1.195 (Western-leaning)
+  - enforcement: 1.064 (Chinese-leaning)
+  - stability: 0.950 (Chinese-leaning)
+  - repression: -0.709 (Western-leaning)
+  - censorship: -0.700 (Western-leaning)
+  - safety: 0.682 (Chinese-leaning)
+  - freedom: -0.609 (Western-leaning)
+==========================================================================================

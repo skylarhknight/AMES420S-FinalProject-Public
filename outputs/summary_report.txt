@@ -1,0 +1,14 @@
+SURVEILLANCE MEDIA ANALYSIS REPORT
+==================================================
+Total Articles Analyzed: 32
+Average Surveillance Sentiment Score: 0.1680
+
+Western Media Average: 0.1080
+Chinese Media Average: 0.2918
+
+Top Positive Surveillance Article:
+https://felenasoft.com/xeoma/en/articles/china-cctv-contemporary-video-surveillance/
+
+Top Negative Surveillance Article:
+https://www.rfi.fr/en/business-and-tech/20221006-watched-the-whole-time-china-s-surveillance-state-grows-under-xi
+

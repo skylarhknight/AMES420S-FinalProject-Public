@@ -1,0 +1,45 @@
+================================================================================
+SURVEILLANCE MEDIA SENTIMENT ANALYSIS REPORT
+Generated on: 2025-04-28 18:20:22
+================================================================================
+
+Total Articles Analyzed: 27
+  - Western Articles: 16
+  - Chinese Articles: 11
+
+Overall Average Sentiment (Surveillance-focused): 6.0761
+  - Western Media: 1.8006
+  - Chinese Media: 12.2949
+
+Descriptive Statistics (Overall Sentiment):
+count    27.0000
+mean      6.0761
+std      11.9095
+min     -13.5807
+25%      -1.1324
+50%       3.9054
+75%       8.9147
+max      49.1383
+Name: sentiment_surveillance, dtype: float64
+
+Top 5 Most Positive Articles:
+  49.138  - Chinese  - https://felenasoft.com/xeoma/en/articles/china-cctv-contemporary-video-surveillance/
+  23.708  - Chinese  - https://en.nhc.gov.cn/2024-08/30/c_86339.htm#:~:text=China%20plans%20to%20complete%20building,a%20guideline%20released%20on%20Friday.
+  19.155  - Chinese  - https://www.chinadaily.com.cn/a/202201/25/WS61ef4c97a310cdd39bc83002.html
+  18.821  - Western  - https://www.cbsnews.com/news/chinas-buildup-of-the-surveillance-state-intelligence-matters/
+  13.668  - Western  - https://www.bloomberg.com/opinion/articles/2024-02-04/china-s-surveillance-state-depends-on-people-not-cameras
+
+Top 5 Most Negative Articles:
+  -13.581  - Western  - https://www.the-independent.com/voices/coronavirus-china-technology-mass-surveillance-privacy-human-rights-a9463586.html
+  -9.692  - Western  - https://www.rfi.fr/en/business-and-tech/20221006-watched-the-whole-time-china-s-surveillance-state-grows-under-xi
+  -2.355  - Western  - https://www.hrw.org/news/2020/04/01/china-fighting-covid-19-automated-tyranny
+  -2.264  - Chinese  - https://www.chinadaily.com.cn/business/2012-03/28/content_14930234.htm
+  -1.557  - Western  - https://www.technologyreview.com/2022/10/10/1060982/china-pandemic-cameras-surveillance-state-book/
+
+================================================================================
+Notes:
+- Sentiment scores range from roughly -1 (very negative) to +1 (very positive).
+- Positive scores suggest surveillance framed positively (e.g., safety, security).
+- Negative scores suggest surveillance framed critically (e.g., control, repression).
+- Neutral scores suggest either balanced or vague coverage.
+================================================================================
